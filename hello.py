@@ -3,4 +3,6 @@ def marco(name):
         return "Polo"
     return "No!"
 
+
 print(marco("Marco"))
+# var=
