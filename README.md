@@ -18,3 +18,12 @@ upload to github
 * Makefile
 * hello.py
 * requirements.txt
+
+## Continuous Integration with Github Actions
+
+* test_hello.py
+* installed `pylint`, `pytest`, `black`
+
+## Building a command-line tool
+
+* use click to build a cli
