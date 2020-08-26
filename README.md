@@ -1,6 +1,11 @@
 # function-bike-rider
 This is a repo for showing what you can do with a function
 
+You can watch a Video Walkthrough here:
+
+
+[![The Power of Functions in Python](https://img.youtube.com/vi/lN6OSIDpgyg/0.jpg)](https://youtu.be/lN6OSIDpgyg)
+
 
 ## Setup Cloud Environment (AWS Cloud9)
 
