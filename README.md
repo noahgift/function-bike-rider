@@ -41,4 +41,13 @@ def lambda_handler(event, context):
 
 * install `boto3` and use `ipython`
 
+### Build a computer vision cli
+
+### Build a trigger that automatically runs a Lambda Function
+
+
+
+
+
+
 
