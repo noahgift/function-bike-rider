@@ -28,6 +28,8 @@ upload to github
 
 * use click to build a cli
 
+https://github.com/noahgift/function-bike-rider/blob/master/cvcli.py
+
 ## Explored AWS Lambda
 
 ```python
