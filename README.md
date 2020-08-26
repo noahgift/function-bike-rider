@@ -27,3 +27,18 @@ upload to github
 ## Building a command-line tool
 
 * use click to build a cli
+
+## Explored AWS Lambda
+
+```python
+def lambda_handler(event, context):
+    if event["name"] == "Marco":
+        return "Polo"
+    return "No!"
+```
+
+### Use Boto3
+
+* install `boto3` and use `ipython`
+
+
