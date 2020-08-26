@@ -14,3 +14,7 @@ This is a repo for showing what you can do with a function
 upload to github
 
 ## Create Scaffold (with Marco Polo function)
+
+* Makefile
+* hello.py
+* requirements.txt
