@@ -126,7 +126,19 @@ def translate_test(request):
         return f'No Payload'
  ```
 
+#### Example Output of GCP Cloud Function
 
+Send payload in:
+```
+{
+        "entity":"google",
+        "language":"es",
+        "sentences":"3"
+}
+```
+The result below:
+
+Translated text: Google LLC es una empresa de tecnología multinacional estadounidense que se especializa en servicios y productos relacionados con Internet, que incluyen tecnologías de publicidad en línea, un motor de búsqueda, computación en la nube, software y hardware. Se considera una de las cuatro grandes empresas de tecnología junto con Amazon, Apple y Microsoft. Google fue fundada en septiembre de 1998 por Larry Page y Sergey Brin mientras eran Ph.D. estudiantes de la Universidad de Stanford en California. Juntos poseen alrededor del 14 por ciento de sus acciones y controlan el 56 por ciento del poder de voto de los accionistas a través de acciones de supervotación.
 
 
 
