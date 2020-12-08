@@ -65,6 +65,11 @@ curl -d '{
 ```
 
 
+## Invoke AWS Lambda
+
+```bash
+aws lambda invoke --function-name Marco128 --payload '{"name": "Marco" }' out.txt | less out.txt
+```                 
 
 
 
