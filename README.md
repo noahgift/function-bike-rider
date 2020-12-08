@@ -6,6 +6,15 @@ You can watch a Video Walkthrough here:
 
 [![The Power of Functions in Python](https://img.youtube.com/vi/lN6OSIDpgyg/0.jpg)](https://youtu.be/lN6OSIDpgyg)
 
+## Building a CLI Workflow
+
+1.  Create scaffolding in Python (Makefile, virtualenv)
+2.  Write a function in a script file
+3.  Test it out in IPython
+4.  Write a test using pytest and test_hello.py
+5.  Write a Click commandline tool
+6.  Test all of it using the Click test runner
+
 
 ## Setup Cloud Environment (AWS Cloud9)
 
