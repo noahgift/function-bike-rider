@@ -37,7 +37,9 @@ You can watch a Video Walkthrough here:
 4.  Write a test using pytest and test_hello.py
 5.  Test out in Google Cloud Shell
 6.  Deploy
-
+7. `gcloud app create` 
+8. `gcloud app deploy`
+9. create `app.yaml`
 
 
 ## Setup Cloud Environment (AWS Cloud9)
