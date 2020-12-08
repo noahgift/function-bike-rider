@@ -55,6 +55,16 @@ You can watch a Video Walkthrough here:
 executionId: akqyz3e60z6o
 result: "This is the res: [{45: 'quarters'}, {1: 'dimes'}, {1: 'nickels'}, {4: 'pennies'}]"
 ```
+8.  Another way to invoke is via curl command
+To invoke via curl
+
+```bash
+curl -d '{
+    "amount":"1.34"
+}'     -H "Content-Type: application/json" -X POST <trigger>/function-3
+```
+
+
 
 
 
