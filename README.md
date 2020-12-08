@@ -41,6 +41,22 @@ You can watch a Video Walkthrough here:
 8. `gcloud app deploy`
 9. create `app.yaml`
 
+## Build out a GCP Cloud Function
+
+1.  Create scaffolding in Python (Makefile, virtualenv)
+2.  Write a function in a script file
+3.  Test it out in IPython
+4.  Write a test using pytest and test_hello.py
+5.  Test out in Google Cloud Shell
+6.  Create Google Cloud Function  
+7.  Invoke via the cli:
+    `gcloud functions call ChangeMachineCloudFunction --data '{"amount":"11.44"}'`
+```bash
+executionId: akqyz3e60z6o
+result: "This is the res: [{45: 'quarters'}, {1: 'dimes'}, {1: 'nickels'}, {4: 'pennies'}]"
+```
+
+
 
 ## Setup Cloud Environment (AWS Cloud9)
 
