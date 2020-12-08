@@ -18,6 +18,17 @@ You can watch a Video Walkthrough here:
 6.  Test all of it using the Click test runner
 
 
+## Building a Computer Vision
+
+1.  Create scaffolding in Python (Makefile, virtualenv)
+2.  Write a function in a script file
+3.  Test it out in IPython
+4.  Write a test using pytest and test_hello.py
+5.  Write a Click CLI tool
+6.  Test all of it using the Click test runner
+7.  Build an AWS Lambda function
+8.  Create Trigger to S3 Bucket
+
 ## Setup Cloud Environment (AWS Cloud9)
 
 `python3 -m venv ~/.function-bike-rider`
