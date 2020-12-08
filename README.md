@@ -1,3 +1,5 @@
+![Python application test with Github Actions](https://github.com/noahgift/function-bike-rider/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+
 # function-bike-rider
 This is a repo for showing what you can do with a function
 
